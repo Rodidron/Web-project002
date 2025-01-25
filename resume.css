@@ -1,0 +1,63 @@
+.roboto-uniquifier {
+ font-family: "Roboto", serif;
+ font-optical-sizing: auto;
+ font-weight: 16px;
+ font-style: normal;
+ font-variation-settings: "width" 100;
+}
+
+.g001 {
+ margin-left: 700px;
+}
+
+.g002 {
+ margin-left: 700px;
+ color: #1be400;
+}
+
+.g003 {
+ color: #e62542;
+}
+
+.container1 {
+ margin: 50px 200px 50px 200px;
+ background-color: #ffffff;
+ border-radius: 14px;
+}
+
+.container2 {
+ margin: 50px 200px 50px 200px;
+ background-color: #ffffff;
+ border-radius: 14px;
+}
+
+.card {
+ margin-bottom: 30px;
+ padding-left: 10px;
+ border: 1px solid #000000;
+ border-radius: 14px;
+}
+
+body {
+ background-color: #d9d9d9;
+}
+
+.containerheader {
+ width:1024px;
+ display:flex;
+ margin-left: 1350px;
+ margin-top: -15px;
+ margin-bottom: 20px;
+}
+
+.g004 {
+ 
+}
+
+.g099 {
+    width:1024px;
+    display:flex;
+    margin-left: 1350px;
+    margin-top: -15px;
+    margin-bottom: 20px;
+}
